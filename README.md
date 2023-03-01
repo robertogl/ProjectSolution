@@ -9,10 +9,13 @@ Please add the following items:
 
 
 # Project details
-A summary of the approach used.
+A description of the implementation and the approached adopted.
 
 # How to run section
-Please explain step by step how an user should run the code.
+Please explain step by step how to run the code/model and include information about what toolboxes and other resources needed to run it.
 
 # Demo
-Add a video or gif to showcase the code in opertaion.
+Add a video or animated gif/picture to showcase the code in operation.
+  
+# Reference
+Add reference papers, data, or supporting material that has been used, if any.
