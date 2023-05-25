@@ -5,7 +5,7 @@ Please add the following items:
 
 [Program link](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
 
-[Project link]<Add link to the project description>
+[Project description link]<Add link to the project description from the list of projects above>
 
 
 # Project details
