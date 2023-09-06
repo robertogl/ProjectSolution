@@ -1,4 +1,4 @@
-# Solution to Excellence in Innovation project <'project number'> <'Project Title'>
+# Solution to MATLAB and Simulink Challenge project <'project number'> <'Project Title'>
 This is a template repo for Excellence in Innovation project solutions.
 
 Please add the following items:
