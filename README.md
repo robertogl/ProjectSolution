@@ -1,9 +1,9 @@
 # Solution to MATLAB and Simulink Challenge project <'project number'> <'Project Title'>
-This is a template repo for Excellence in Innovation project solutions.
+This is a template repo for MATLAB and Simulink Challenge Project solutions.
 
 Please add the following items:
 
-[Program link](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
+[Program link]([https://github.com/mathworks/MathWorks-Excellence-in-Innovation](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub))
 
 [Project description link]<Add link to the project description from the list of projects above>
 
